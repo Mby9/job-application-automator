@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 Job-Copilot</h1>
+        </header>
+
+        <main>
+            <!-- Login View -->
+            <div id="loginView" class="view">
+                <div class="card">
+                    <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: 20px;">
+                        Log in to sync your job discovery and autofill rules.
+                    </p>
+                    <div id="loginError" class="error-msg" style="display: none;"></div>
+                    <input type="text" id="username" placeholder="Username" class="input-field">
+                    <input type="password" id="password" placeholder="Password" class="input-field">
+                    <button class="btn btn-primary" id="loginBtn">Log In</button>
+                    <p style="font-size: 0.75rem; text-align: center; margin-top: 12px; color: var(--text-muted);">
+                        Don't have an account? <a id="signupLink" href="#" target="_blank" style="color: var(--accent-blue);">Sign up</a>
+                    </p>
+                </div>
+            </div>
+
+            <!-- Main View -->
+            <div id="mainView" class="view" style="display: none;">
+                <div class="card">
+                    <div class="status-badge">
+                        <span class="dot"></span> <span id="userGreeting">Active & Learning</span>
+                    </div>
+                    <p style="font-size: 0.875rem; color: var(--text-secondary); margin-bottom: 20px;">
+                        Focus on the application, I'll handle the fields.
+                    </p>
+                    <button class="btn btn-primary" id="refreshBtn">Refresh Mappings</button>
+                    <button class="btn" id="dashboardBtn">Open Discovery Dashboard</button>
+                    <button class="btn btn-secondary" id="logoutBtn" style="margin-top: 12px; font-size: 0.75rem;">Logout</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="config.js"></script>
+    <script src="popup.js"></script>
+</body>
+</html>

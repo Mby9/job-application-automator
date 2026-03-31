@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+google-genai
+playwright
+pydantic
+pydantic-settings
+sqlalchemy
+python-multipart
+python-dotenv
+httpx
+ddgs
+openai
+pypdf
+python-docx
