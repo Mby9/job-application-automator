@@ -2,7 +2,10 @@
 
 An end-to-end intelligent system designed to streamline the job search and application process. Job-Copilot discovers companies, scrapes relevant job postings, filters them based on your preferences, and automatically fills out complex job application forms using an AI-powered browser extension.
 
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/89f39769-cccc-48e7-9958-f554af122da5" />
+<img width="361" height="425" alt="image" src="https://github.com/user-attachments/assets/5dec9530-877c-44d5-9868-df15527280ff" />
+
+Fields auto-filled by smart extension:
+<img width="1114" height="939" alt="image" src="https://github.com/user-attachments/assets/c875abfd-0fd7-456f-9bc2-816ea2c177e4" />
 
 ## 🌟 Key Features
 
