@@ -2,7 +2,7 @@
 
 An end-to-end intelligent system designed to streamline the job search and application process. Job-Copilot discovers companies, scrapes relevant job postings, filters them based on your preferences, and automatically fills out complex job application forms using an AI-powered browser extension.
 
-![Autofill Success Demonstration](<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/89f39769-cccc-48e7-9958-f554af122da5" />)
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/89f39769-cccc-48e7-9958-f554af122da5" />
 
 ## 🌟 Key Features
 
@@ -37,12 +37,12 @@ The project is divided into three main components:
 ### Preferences & Dynamic Filtering
 Customize your job search to your exact needs, including geographical filtering.
 
-![Preferences Drawer](<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/baca49d4-86d7-44a1-afcb-3275f7c8d7ba" />)
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/baca49d4-86d7-44a1-afcb-3275f7c8d7ba" />
 
 ### Job Dashboard Alignment
 View matched jobs in a clean, responsive grid layout.
 
-![Job Dashboard](<img width="1920" height="997" alt="image" src="https://github.com/user-attachments/assets/19d93062-8456-4b98-b2fa-8e6aadafb35a" />)
+<img width="1920" height="997" alt="image" src="https://github.com/user-attachments/assets/19d93062-8456-4b98-b2fa-8e6aadafb35a" />
 
 ---
 
